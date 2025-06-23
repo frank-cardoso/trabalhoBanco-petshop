@@ -67,6 +67,8 @@ Abaixo está o diagrama relacional representando as tabelas e seus relacionament
 ```bash
 pet-shop/
 ├── app.js
+  banco/
+    ├── banco.sql
 ├── db.js
 ├── clienteController.js
 ├── animalController.js
