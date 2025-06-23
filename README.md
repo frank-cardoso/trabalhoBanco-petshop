@@ -64,6 +64,7 @@ Abaixo está o diagrama relacional representando as tabelas e seus relacionament
 
 ## 📦 Estrutura do Projeto
 
+```bash
 pet-shop/
 ├── app.js
 ├── db.js
@@ -72,7 +73,7 @@ pet-shop/
 ├── servicoController.js
 ├── agendamentoController.js
 ├── README.md
-
+```
 ---
 
 ## ▶️ Como Rodar o Projeto
