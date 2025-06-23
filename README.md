@@ -90,7 +90,7 @@ cd trabalhoBanco-petshop
 ### 2. Instale dependências
 
 ```bash
-npm install readline-sync pg
+npm install
 ```
 
 ### 3. Configure o banco
