@@ -337,3 +337,5 @@ CREATE INDEX idx_agendamentos_data_hora ON Agendamentos(data_hora);
 
 -- Acelera buscas por data/hora, úteis em relatórios, listagens por agenda, ou consultas como:
 SELECT * FROM Agendamentos WHERE data_hora >= '2025-06-10';
+
+EXPLAIN ANALYZE SELECT * FROM Agendamentos WHERE id_animal = 5;
